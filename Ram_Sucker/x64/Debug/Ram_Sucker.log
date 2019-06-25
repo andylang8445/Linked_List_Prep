@@ -1,3 +1,49 @@
 ﻿  Ram_Sucker.cpp
-C:\Users\119an\source\repos\Ram_Sucker\Ram_Sucker.cpp(29,10): error C2664:  'void free(void *)': 인수 1을(를) 'const int *'에서 'void *'(으)로 변환할 수 없습니다.
-C:\Users\119an\source\repos\Ram_Sucker\Ram_Sucker.cpp(29,7): message :  변환하면서 한정자가 손실됩니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(10,6): error C2143:  구문 오류: ';'이(가) '*' 앞에 없습니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(10,6): error C4430:  형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(10,19): error C2238:  ';' 앞에 예기치 않은 토큰이 있습니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(11,6): error C2143:  구문 오류: ';'이(가) '*' 앞에 없습니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(11,6): error C4430:  형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(11,19): error C2238:  ';' 앞에 예기치 않은 토큰이 있습니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(32,19): error C2039:  'next': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(34,20): error C2039:  'next': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(36,17): error C2039:  'next': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(37,13): error C2039:  'next': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(51,20): error C2039:  'next': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(58,16): error C2039:  'next': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(63,16): error C2039:  'prev': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(67,16): error C2039:  'next': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(68,15): error C2039:  'prev': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(70,16): error C2039:  'prev': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(70,28): error C2039:  'prev': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(71,16): error C2039:  'prev': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(78,16): error C2039:  'next': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(79,15): error C2039:  'prev': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(81,16): error C2039:  'prev': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(81,28): error C2039:  'prev': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(82,16): error C2039:  'prev': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(93,16): error C2039:  'next': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(94,16): error C2039:  'prev': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(97,20): error C2039:  'next': 'node'의 멤버가 아닙니다.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(6): message :  'node' 선언을 참조하십시오.
+F:\Final Project\Linked_List_Prep\Ram_Sucker\Ram_Sucker.cpp(48,1): error C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
